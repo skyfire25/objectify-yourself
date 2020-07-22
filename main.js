@@ -36,7 +36,7 @@ carlosEmptyObject.firstName = 'Carlos'
 carlosEmptyObject.lastName = 'Molina'
 
 // Add a `fullName` property and set it to the name properties put together with a space string in the middle.
-
+carlosEmptyObject.fullName =carlosEmptyObject.firstName;
 
 // Add an `age` property and set it to a number.
 
