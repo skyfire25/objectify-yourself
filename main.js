@@ -3,13 +3,13 @@ const myCodeImmersivesObj = {
 };
 
 // Set the value of property `objectify` to be "yourself".
-
+myCodeImmersivesObj.objectify = 'yourself'
 
 // Add the new property `isAnExcellentObject` and set it to `true`.
 
 
 // Add the property `term` and set it to 1.
-
+myCodeImmersivesObj.term++
 
 // Now add 1 to the value of your object's `term` property and put that new value back in your object's `term`.
 
@@ -19,15 +19,15 @@ const myCodeImmersivesObj = {
 
 // Now add a new property called `cumulativeScore` and set it to 50.
 
-
 // Now add your `currentScore` and your `cumulativeScore` and put it back in `cumulativeScore`.
+myCodeImmersivesObj.cumulativeScore += myCodeImmersivesObj.currentScore;
 
 
 // Now add a property called `I am exactly this cool` (you'll need bracket notation!) and set it to `soooooo cool`.
-
+myCodeImmersivesObj['I am exactly this cool'] = 'soooooo cool';
 
 // Now make a new EMPTY object that represents yourself.
-
+const 
 
 // Add a `firstName` property and set it to a string.
 
