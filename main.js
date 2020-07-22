@@ -30,10 +30,10 @@ myCodeImmersivesObj['I am exactly this cool'] = 'soooooo cool';
 const carlosEmptyObject = {};
 
 // Add a `firstName` property and set it to a string.
-
+carlosEmptyObject.firstName = 'Carlos'
 
 // Add a `lastName` property and set it to a string.
-
+carlosEmptyObject.lastName = 'Molina'
 
 // Add a `fullName` property and set it to the name properties put together with a space string in the middle.
 
